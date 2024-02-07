@@ -1,7 +1,7 @@
 # Adaptive Experiment Design with Synthetic Controls
 Code author: Alihan Hüyük ([ah2075@cam.ac.uk](mailto:ah2075@cam.ac.uk))
 
-This repository is for reproducing the main experimental results in the AISTATS'24 paper: ["Adaptive experiment design with synthetic controls"]. The method proposed in the paper, *Syntax*, is implemented as a combination of `infer_synthetic` and `recruit_adaptive` in `src/algs.py`.
+This repository is for reproducing the main experimental results in the AISTATS'24 paper: ["Adaptive experiment design with synthetic controls"](https://arxiv.org/abs/2401.17205). The method proposed in the paper, *Syntax*, is implemented as a combination of `infer_synthetic` and `recruit_adaptive` in `src/algs.py`.
 
 ### Usage
 
