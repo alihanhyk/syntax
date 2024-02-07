@@ -1,0 +1,7 @@
+dill
+jax >=0.4.1, <1
+jaxlib >=0.4.1, <1
+matplotlib
+numpy
+pandas
+tqdm
